@@ -1,6 +1,4 @@
-<p align="center">Desenvolvedor full-stack com foco em JavaScript, atualmente atuando como desenvolvedor back-end. Tenho experiência em administração de banco de dados Oracle APEX, desenvolvimento de APIs REST e utilização de PL/SQL. Além disso, possuo habilidades em desenvolvimento web integrado, utilizando tecnologias como Vue e React. </p>
-
-<p align="center">Em paralelo ao meu trabalho, tenho interesse em jogos, estudos e música, buscando sempre me manter atualizado com as últimas tendências e tecnologias do mercado, e no meu tempo livre gosto de explorar novas tecnologias, participar de projetos colaborativos e contribuir para a comunidade de desenvolvimento.</p>&nbsp;
+<p align="left">Oi, eu sou o Pedro! =) </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=OpKSpatY&theme=radical&mode=weekly" />
