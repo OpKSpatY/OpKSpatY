@@ -1,4 +1,4 @@
-<p align="left">Oi, eu sou o Pedro! =) </p>&nbsp;
+<h1 align="left">Oi, eu sou o Pedro! =) </h1>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=OpKSpatY&theme=radical&mode=weekly" />
